@@ -10,11 +10,16 @@ using System.Windows.Forms;
 
 namespace QuanLyRapPhim
 {
-    public partial class Login : Form
+    public partial class SeatBookingForm : Form
     {
-        public Login()
+        public SeatBookingForm()
         {
             InitializeComponent();
+        }
+
+        private void SeatBookingForm_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }

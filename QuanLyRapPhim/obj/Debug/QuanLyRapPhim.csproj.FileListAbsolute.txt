@@ -1,0 +1,10 @@
+C:\Users\LuuVanLoi\Desktop\DA\QuanLyRapPhim\QuanLyRapPhim\bin\Debug\QuanLyRapPhim.exe.config
+C:\Users\LuuVanLoi\Desktop\DA\QuanLyRapPhim\QuanLyRapPhim\bin\Debug\QuanLyRapPhim.exe
+C:\Users\LuuVanLoi\Desktop\DA\QuanLyRapPhim\QuanLyRapPhim\bin\Debug\QuanLyRapPhim.pdb
+C:\Users\LuuVanLoi\Desktop\DA\QuanLyRapPhim\QuanLyRapPhim\obj\Debug\QuanLyRapPhim.csprojAssemblyReference.cache
+C:\Users\LuuVanLoi\Desktop\DA\QuanLyRapPhim\QuanLyRapPhim\obj\Debug\QuanLyRapPhim.Properties.Resources.resources
+C:\Users\LuuVanLoi\Desktop\DA\QuanLyRapPhim\QuanLyRapPhim\obj\Debug\QuanLyRapPhim.csproj.GenerateResource.cache
+C:\Users\LuuVanLoi\Desktop\DA\QuanLyRapPhim\QuanLyRapPhim\obj\Debug\QuanLyRapPhim.csproj.CoreCompileInputs.cache
+C:\Users\LuuVanLoi\Desktop\DA\QuanLyRapPhim\QuanLyRapPhim\obj\Debug\QuanLyRapPhim.exe
+C:\Users\LuuVanLoi\Desktop\DA\QuanLyRapPhim\QuanLyRapPhim\obj\Debug\QuanLyRapPhim.pdb
+C:\Users\LuuVanLoi\Desktop\DA\QuanLyRapPhim\QuanLyRapPhim\obj\Debug\QuanLyRapPhim.LoginForm.resources
