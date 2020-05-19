@@ -25,9 +25,6 @@ namespace QuanLyRapPhim
                 
             }
         }
-        static String filepath = "E:\\test.txt";// đường dẫn của file muốn tạo
-        static FileStream fs = new FileStream(filepath, FileMode.Create);//Tạo file mới tên là test.txt            
-        StreamWriter sWriter = new StreamWriter(fs, Encoding.UTF8);//fs là 1 FileStream 
         private void chooseSeat_Click(object sender, EventArgs e)
         {
             if ((sender as PictureBox).BackColor == Color.White){
