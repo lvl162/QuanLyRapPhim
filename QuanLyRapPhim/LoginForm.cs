@@ -20,6 +20,7 @@ namespace QuanLyRapPhim
         private void loginButton_Click(object sender, EventArgs e)
         {
             //
+            new SeatBookingForm().ShowDialog();
         }
 
         private void cancelButton_Click(object sender, EventArgs e)
