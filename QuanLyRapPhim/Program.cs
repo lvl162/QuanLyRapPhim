@@ -15,6 +15,7 @@ namespace QuanLyRapPhim
         static void Main()
         {
             //TTTTessttt
+//22323r22323
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new LoginForm());
