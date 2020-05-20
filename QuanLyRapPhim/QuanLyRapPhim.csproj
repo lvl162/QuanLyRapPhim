@@ -111,6 +111,9 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="QuanLyPhim.resx">
+      <DependentUpon>QuanLyPhim.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="SeatBookingForm.resx">
       <DependentUpon>SeatBookingForm.cs</DependentUpon>
     </EmbeddedResource>
