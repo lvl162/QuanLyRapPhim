@@ -1,39 +1,18 @@
-C:\Users\LuuVanLoi\Desktop\DA\QuanLyRapPhim\QuanLyRapPhim\bin\Debug\QuanLyRapPhim.exe.config
-C:\Users\LuuVanLoi\Desktop\DA\QuanLyRapPhim\QuanLyRapPhim\bin\Debug\QuanLyRapPhim.exe
-C:\Users\LuuVanLoi\Desktop\DA\QuanLyRapPhim\QuanLyRapPhim\bin\Debug\QuanLyRapPhim.pdb
-C:\Users\LuuVanLoi\Desktop\DA\QuanLyRapPhim\QuanLyRapPhim\obj\Debug\QuanLyRapPhim.csprojAssemblyReference.cache
-C:\Users\LuuVanLoi\Desktop\DA\QuanLyRapPhim\QuanLyRapPhim\obj\Debug\QuanLyRapPhim.Properties.Resources.resources
-C:\Users\LuuVanLoi\Desktop\DA\QuanLyRapPhim\QuanLyRapPhim\obj\Debug\QuanLyRapPhim.csproj.GenerateResource.cache
-C:\Users\LuuVanLoi\Desktop\DA\QuanLyRapPhim\QuanLyRapPhim\obj\Debug\QuanLyRapPhim.csproj.CoreCompileInputs.cache
-C:\Users\LuuVanLoi\Desktop\DA\QuanLyRapPhim\QuanLyRapPhim\obj\Debug\QuanLyRapPhim.exe
-C:\Users\LuuVanLoi\Desktop\DA\QuanLyRapPhim\QuanLyRapPhim\obj\Debug\QuanLyRapPhim.pdb
-C:\Users\LuuVanLoi\Desktop\DA\QuanLyRapPhim\QuanLyRapPhim\obj\Debug\QuanLyRapPhim.LoginForm.resources
-C:\Users\LuuVanLoi\Desktop\DA\QuanLyRapPhim\QuanLyRapPhim\obj\Debug\QuanLyRapPhim.SeatBookingForm.resources
-<<<<<<< HEAD
-C:\Users\LuuVanLoi\Desktop\DA\QuanLyRapPhim\QuanLyRapPhim\obj\Debug\QuanLyRapPhim.Form1.resources
-D:\QuanLyRapPhim\QuanLyRapPhim\bin\Debug\QuanLyRapPhim.exe.config
-D:\QuanLyRapPhim\QuanLyRapPhim\bin\Debug\QuanLyRapPhim.exe
-D:\QuanLyRapPhim\QuanLyRapPhim\bin\Debug\QuanLyRapPhim.pdb
-D:\QuanLyRapPhim\QuanLyRapPhim\obj\Debug\QuanLyRapPhim.csprojAssemblyReference.cache
-D:\QuanLyRapPhim\QuanLyRapPhim\obj\Debug\QuanLyRapPhim.Form1.resources
-D:\QuanLyRapPhim\QuanLyRapPhim\obj\Debug\QuanLyRapPhim.LoginForm.resources
-D:\QuanLyRapPhim\QuanLyRapPhim\obj\Debug\QuanLyRapPhim.Properties.Resources.resources
-D:\QuanLyRapPhim\QuanLyRapPhim\obj\Debug\QuanLyRapPhim.QuanLyPhim.resources
-D:\QuanLyRapPhim\QuanLyRapPhim\obj\Debug\QuanLyRapPhim.SeatBookingForm.resources
-D:\QuanLyRapPhim\QuanLyRapPhim\obj\Debug\QuanLyRapPhim.csproj.GenerateResource.cache
-D:\QuanLyRapPhim\QuanLyRapPhim\obj\Debug\QuanLyRapPhim.csproj.CoreCompileInputs.cache
-D:\QuanLyRapPhim\QuanLyRapPhim\obj\Debug\QuanLyRapPhim.exe
-D:\QuanLyRapPhim\QuanLyRapPhim\obj\Debug\QuanLyRapPhim.pdb
-=======
-C:\Users\LuuVanLoi\Desktop\DA\QuanLyRapPhim\QuanLyRapPhim\obj\Debug\QuanLyRapPhim.DemoForm.resources
->>>>>>> e35c67c6ab5a8dd09eff187c0a81f58ebf8998fa
-C:\Users\LuuVanLoi\Desktop\DA\QuanLyRapPhim\QuanLyRapPhim\obj\Debug\QuanLyRapPhim.QuanLyPhim.resources
-<<<<<<< HEAD
-D:\QuanLyRapPhim\QuanLyRapPhim\obj\Debug\QuanLyRapPhim.DemoForm.resources
-D:\QuanLyRapPhim\QuanLyRapPhim\obj\Debug\QuanLyRapPhim.QuanLyBanVe.resources
-D:\QuanLyRapPhim\QuanLyRapPhim\obj\Debug\QuanLyRapPhim.QuanLyPhongChieu.resources
-=======
-C:\Users\LuuVanLoi\Desktop\DA\QuanLyRapPhim\QuanLyRapPhim\obj\Debug\QuanLyRapPhim.QuanLyLichChieuForm.resources
-C:\Users\LuuVanLoi\Desktop\DA\QuanLyRapPhim\QuanLyRapPhim\obj\Debug\QuanLyRapPhim.ThemLichChieu.resources
-C:\Users\LuuVanLoi\Desktop\DA\QuanLyRapPhim\QuanLyRapPhim\obj\Debug\QuanLyRapPhim.XoaLichChieu.resources
->>>>>>> fef9b2d9b3a925085227f89b245fa4554913a82d
+C:\Users\LuuVanLoi\Desktop\QuanLyRapPhim\QuanLyRapPhim\bin\Debug\QuanLyRapPhim.exe.config
+C:\Users\LuuVanLoi\Desktop\QuanLyRapPhim\QuanLyRapPhim\bin\Debug\QuanLyRapPhim.exe
+C:\Users\LuuVanLoi\Desktop\QuanLyRapPhim\QuanLyRapPhim\bin\Debug\QuanLyRapPhim.pdb
+C:\Users\LuuVanLoi\Desktop\QuanLyRapPhim\QuanLyRapPhim\obj\Debug\QuanLyRapPhim.DemoForm.resources
+C:\Users\LuuVanLoi\Desktop\QuanLyRapPhim\QuanLyRapPhim\obj\Debug\QuanLyRapPhim.QuanLyBanVe.resources
+C:\Users\LuuVanLoi\Desktop\QuanLyRapPhim\QuanLyRapPhim\obj\Debug\QuanLyRapPhim.LietKeDSLichChieu.resources
+C:\Users\LuuVanLoi\Desktop\QuanLyRapPhim\QuanLyRapPhim\obj\Debug\QuanLyRapPhim.LoginForm.resources
+C:\Users\LuuVanLoi\Desktop\QuanLyRapPhim\QuanLyRapPhim\obj\Debug\QuanLyRapPhim.Properties.Resources.resources
+C:\Users\LuuVanLoi\Desktop\QuanLyRapPhim\QuanLyRapPhim\obj\Debug\QuanLyRapPhim.QuanLyLichChieuForm.resources
+C:\Users\LuuVanLoi\Desktop\QuanLyRapPhim\QuanLyRapPhim\obj\Debug\QuanLyRapPhim.QuanLyPhim.resources
+C:\Users\LuuVanLoi\Desktop\QuanLyRapPhim\QuanLyRapPhim\obj\Debug\QuanLyRapPhim.SeatBookingForm.resources
+C:\Users\LuuVanLoi\Desktop\QuanLyRapPhim\QuanLyRapPhim\obj\Debug\QuanLyRapPhim.SuaLichChieu.resources
+C:\Users\LuuVanLoi\Desktop\QuanLyRapPhim\QuanLyRapPhim\obj\Debug\QuanLyRapPhim.ThemLichChieu.resources
+C:\Users\LuuVanLoi\Desktop\QuanLyRapPhim\QuanLyRapPhim\obj\Debug\QuanLyRapPhim.XoaLichChieu.resources
+C:\Users\LuuVanLoi\Desktop\QuanLyRapPhim\QuanLyRapPhim\obj\Debug\QuanLyRapPhim.csproj.GenerateResource.cache
+C:\Users\LuuVanLoi\Desktop\QuanLyRapPhim\QuanLyRapPhim\obj\Debug\QuanLyRapPhim.csproj.CoreCompileInputs.cache
+C:\Users\LuuVanLoi\Desktop\QuanLyRapPhim\QuanLyRapPhim\obj\Debug\QuanLyRapPhim.exe
+C:\Users\LuuVanLoi\Desktop\QuanLyRapPhim\QuanLyRapPhim\obj\Debug\QuanLyRapPhim.pdb
