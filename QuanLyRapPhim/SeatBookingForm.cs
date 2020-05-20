@@ -29,7 +29,6 @@ namespace QuanLyRapPhim
         {
             if ((sender as PictureBox).BackColor == Color.White){
                 (sender as PictureBox).BackColor = Color.Blue;
-                sWriter.WriteLine((sender as PictureBox).Location);
                 int x = (sender as PictureBox).Location.X;
                 int y = (sender as PictureBox).Location.Y;
                 int l = 64 + (int) Math.Floor((y - 78)/ 44f + 1);
