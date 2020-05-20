@@ -16,7 +16,11 @@ namespace QuanLyRapPhim
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
+<<<<<<< HEAD
             Application.Run(new QuanLyPhim());
+=======
+            Application.Run(new DemoForm());
+>>>>>>> e35c67c6ab5a8dd09eff187c0a81f58ebf8998fa
         }
     }
 }

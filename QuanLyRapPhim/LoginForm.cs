@@ -20,12 +20,14 @@ namespace QuanLyRapPhim
         private void loginButton_Click(object sender, EventArgs e)
         {
             //
-            new SeatBookingForm().ShowDialog();
+            //new SeatBookingForm().ShowDialog();
+            MessageBox.Show("Dang nhap thanh cong");
         }
 
         private void cancelButton_Click(object sender, EventArgs e)
         {
             //
+            this.Close();
         }
     }
 }

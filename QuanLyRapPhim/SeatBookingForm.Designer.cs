@@ -258,6 +258,8 @@
             this.pictureBox198 = new System.Windows.Forms.PictureBox();
             this.pictureBox199 = new System.Windows.Forms.PictureBox();
             this.pictureBox200 = new System.Windows.Forms.PictureBox();
+            this.applyButton = new System.Windows.Forms.Button();
+            this.cancelButton = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).BeginInit();
@@ -768,7 +770,6 @@
             this.pictureBox1.Size = new System.Drawing.Size(34, 25);
             this.pictureBox1.TabIndex = 2;
             this.pictureBox1.TabStop = false;
-            this.pictureBox1.Click += new System.EventHandler(this.chooseSeat_Click);
             // 
             // pictureBox2
             // 
@@ -2561,11 +2562,33 @@
             this.pictureBox200.TabIndex = 2;
             this.pictureBox200.TabStop = false;
             // 
+            // applyButton
+            // 
+            this.applyButton.Location = new System.Drawing.Point(136, 525);
+            this.applyButton.Name = "applyButton";
+            this.applyButton.Size = new System.Drawing.Size(184, 32);
+            this.applyButton.TabIndex = 3;
+            this.applyButton.Text = "Xác nhận";
+            this.applyButton.UseVisualStyleBackColor = true;
+            this.applyButton.Click += new System.EventHandler(this.applyButton_Click);
+            // 
+            // cancelButton
+            // 
+            this.cancelButton.Location = new System.Drawing.Point(517, 525);
+            this.cancelButton.Name = "cancelButton";
+            this.cancelButton.Size = new System.Drawing.Size(141, 31);
+            this.cancelButton.TabIndex = 4;
+            this.cancelButton.Text = "Hủy";
+            this.cancelButton.UseVisualStyleBackColor = true;
+            this.cancelButton.Click += new System.EventHandler(this.cancelButton_Click);
+            // 
             // SeatBookingForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1274, 519);
+            this.ClientSize = new System.Drawing.Size(1175, 572);
+            this.Controls.Add(this.cancelButton);
+            this.Controls.Add(this.applyButton);
             this.Controls.Add(this.pictureBox200);
             this.Controls.Add(this.pictureBox160);
             this.Controls.Add(this.pictureBox80);
@@ -3236,5 +3259,7 @@
         private System.Windows.Forms.PictureBox pictureBox198;
         private System.Windows.Forms.PictureBox pictureBox199;
         private System.Windows.Forms.PictureBox pictureBox200;
+        private System.Windows.Forms.Button applyButton;
+        private System.Windows.Forms.Button cancelButton;
     }
 }
