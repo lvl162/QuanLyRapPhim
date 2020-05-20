@@ -14,6 +14,7 @@ namespace QuanLyRapPhim
         [STAThread]
         static void Main()
         {
+//afsafasf
             //TTTTessttt
 //22323r22323
             Application.EnableVisualStyles();
