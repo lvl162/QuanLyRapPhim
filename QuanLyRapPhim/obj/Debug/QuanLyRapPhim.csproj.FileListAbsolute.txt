@@ -28,3 +28,6 @@ D:\QuanLyRapPhim\QuanLyRapPhim\obj\Debug\QuanLyRapPhim.pdb
 C:\Users\LuuVanLoi\Desktop\DA\QuanLyRapPhim\QuanLyRapPhim\obj\Debug\QuanLyRapPhim.DemoForm.resources
 >>>>>>> e35c67c6ab5a8dd09eff187c0a81f58ebf8998fa
 C:\Users\LuuVanLoi\Desktop\DA\QuanLyRapPhim\QuanLyRapPhim\obj\Debug\QuanLyRapPhim.QuanLyPhim.resources
+C:\Users\LuuVanLoi\Desktop\DA\QuanLyRapPhim\QuanLyRapPhim\obj\Debug\QuanLyRapPhim.QuanLyLichChieuForm.resources
+C:\Users\LuuVanLoi\Desktop\DA\QuanLyRapPhim\QuanLyRapPhim\obj\Debug\QuanLyRapPhim.ThemLichChieu.resources
+C:\Users\LuuVanLoi\Desktop\DA\QuanLyRapPhim\QuanLyRapPhim\obj\Debug\QuanLyRapPhim.XoaLichChieu.resources
