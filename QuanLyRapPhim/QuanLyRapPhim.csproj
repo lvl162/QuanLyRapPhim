@@ -96,6 +96,18 @@
     <Compile Include="SeatBookingForm.Designer.cs">
       <DependentUpon>SeatBookingForm.cs</DependentUpon>
     </Compile>
+    <Compile Include="ThemLichChieu.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ThemLichChieu.Designer.cs">
+      <DependentUpon>ThemLichChieu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="XoaLichChieu.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="XoaLichChieu.Designer.cs">
+      <DependentUpon>XoaLichChieu.cs</DependentUpon>
+    </Compile>
     <EmbeddedResource Include="DemoForm.resx">
       <DependentUpon>DemoForm.cs</DependentUpon>
     </EmbeddedResource>
@@ -111,8 +123,13 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
+<<<<<<< HEAD
     <EmbeddedResource Include="QuanLyBanVe.resx">
       <DependentUpon>QuanLyBanVe.cs</DependentUpon>
+=======
+    <EmbeddedResource Include="QuanLyLichChieuForm.resx">
+      <DependentUpon>QuanLyLichChieuForm.cs</DependentUpon>
+>>>>>>> fef9b2d9b3a925085227f89b245fa4554913a82d
     </EmbeddedResource>
     <EmbeddedResource Include="QuanLyPhim.resx">
       <DependentUpon>QuanLyPhim.cs</DependentUpon>
@@ -122,6 +139,12 @@
     </EmbeddedResource>
     <EmbeddedResource Include="SeatBookingForm.resx">
       <DependentUpon>SeatBookingForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ThemLichChieu.resx">
+      <DependentUpon>ThemLichChieu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="XoaLichChieu.resx">
+      <DependentUpon>XoaLichChieu.cs</DependentUpon>
     </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
