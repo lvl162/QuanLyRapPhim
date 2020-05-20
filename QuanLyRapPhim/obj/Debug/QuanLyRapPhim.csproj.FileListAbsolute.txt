@@ -9,3 +9,4 @@ C:\Users\LuuVanLoi\Desktop\DA\QuanLyRapPhim\QuanLyRapPhim\obj\Debug\QuanLyRapPhi
 C:\Users\LuuVanLoi\Desktop\DA\QuanLyRapPhim\QuanLyRapPhim\obj\Debug\QuanLyRapPhim.pdb
 C:\Users\LuuVanLoi\Desktop\DA\QuanLyRapPhim\QuanLyRapPhim\obj\Debug\QuanLyRapPhim.LoginForm.resources
 C:\Users\LuuVanLoi\Desktop\DA\QuanLyRapPhim\QuanLyRapPhim\obj\Debug\QuanLyRapPhim.SeatBookingForm.resources
+C:\Users\LuuVanLoi\Desktop\DA\QuanLyRapPhim\QuanLyRapPhim\obj\Debug\QuanLyRapPhim.Form1.resources
