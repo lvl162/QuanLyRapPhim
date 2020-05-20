@@ -52,6 +52,12 @@
     <Compile Include="DemoForm.Designer.cs">
       <DependentUpon>DemoForm.cs</DependentUpon>
     </Compile>
+    <Compile Include="QuanLyLichChieu\LietKeDSLichChieu.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="QuanLyLichChieu\LietKeDSLichChieu.Designer.cs">
+      <DependentUpon>LietKeDSLichChieu.cs</DependentUpon>
+    </Compile>
     <Compile Include="LoginForm.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -66,10 +72,10 @@
     <Compile Include="QuanLyBanVe.Designer.cs">
       <DependentUpon>QuanLyBanVe.cs</DependentUpon>
     </Compile>
-    <Compile Include="QuanLyLichChieuForm.cs">
+    <Compile Include="QuanLyLichChieu\QuanLyLichChieuForm.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="QuanLyLichChieuForm.Designer.cs">
+    <Compile Include="QuanLyLichChieu\QuanLyLichChieuForm.Designer.cs">
       <DependentUpon>QuanLyLichChieuForm.cs</DependentUpon>
     </Compile>
     <Compile Include="QuanLyNhanVienForm.cs">
@@ -96,20 +102,32 @@
     <Compile Include="SeatBookingForm.Designer.cs">
       <DependentUpon>SeatBookingForm.cs</DependentUpon>
     </Compile>
-    <Compile Include="ThemLichChieu.cs">
+    <Compile Include="QuanLyLichChieu\SuaLichChieu.cs">
       <SubType>UserControl</SubType>
     </Compile>
-    <Compile Include="ThemLichChieu.Designer.cs">
+    <Compile Include="QuanLyLichChieu\SuaLichChieu.Designer.cs">
+      <DependentUpon>SuaLichChieu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="QuanLyLichChieu\ThemLichChieu.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="QuanLyLichChieu\ThemLichChieu.Designer.cs">
       <DependentUpon>ThemLichChieu.cs</DependentUpon>
     </Compile>
-    <Compile Include="XoaLichChieu.cs">
+    <Compile Include="QuanLyLichChieu\XoaLichChieu.cs">
       <SubType>UserControl</SubType>
     </Compile>
-    <Compile Include="XoaLichChieu.Designer.cs">
+    <Compile Include="QuanLyLichChieu\XoaLichChieu.Designer.cs">
       <DependentUpon>XoaLichChieu.cs</DependentUpon>
     </Compile>
     <EmbeddedResource Include="DemoForm.resx">
       <DependentUpon>DemoForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="QuanLyBanVe.resx">
+      <DependentUpon>QuanLyBanVe.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="QuanLyLichChieu\LietKeDSLichChieu.resx">
+      <DependentUpon>LietKeDSLichChieu.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="LoginForm.resx">
       <DependentUpon>LoginForm.cs</DependentUpon>
@@ -123,27 +141,22 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
-<<<<<<< HEAD
-    <EmbeddedResource Include="QuanLyBanVe.resx">
-      <DependentUpon>QuanLyBanVe.cs</DependentUpon>
-=======
-    <EmbeddedResource Include="QuanLyLichChieuForm.resx">
+    <EmbeddedResource Include="QuanLyLichChieu\QuanLyLichChieuForm.resx">
       <DependentUpon>QuanLyLichChieuForm.cs</DependentUpon>
->>>>>>> fef9b2d9b3a925085227f89b245fa4554913a82d
     </EmbeddedResource>
     <EmbeddedResource Include="QuanLyPhim.resx">
       <DependentUpon>QuanLyPhim.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="QuanLyPhongChieu.resx">
-      <DependentUpon>QuanLyPhongChieu.cs</DependentUpon>
-    </EmbeddedResource>
     <EmbeddedResource Include="SeatBookingForm.resx">
       <DependentUpon>SeatBookingForm.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="ThemLichChieu.resx">
+    <EmbeddedResource Include="QuanLyLichChieu\SuaLichChieu.resx">
+      <DependentUpon>SuaLichChieu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="QuanLyLichChieu\ThemLichChieu.resx">
       <DependentUpon>ThemLichChieu.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="XoaLichChieu.resx">
+    <EmbeddedResource Include="QuanLyLichChieu\XoaLichChieu.resx">
       <DependentUpon>XoaLichChieu.cs</DependentUpon>
     </EmbeddedResource>
     <None Include="Properties\Settings.settings">
