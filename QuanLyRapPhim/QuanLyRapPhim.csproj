@@ -52,12 +52,6 @@
     <Compile Include="DemoForm.Designer.cs">
       <DependentUpon>DemoForm.cs</DependentUpon>
     </Compile>
-    <Compile Include="QuanLyLichChieu\LietKeDSLichChieu.cs">
-      <SubType>UserControl</SubType>
-    </Compile>
-    <Compile Include="QuanLyLichChieu\LietKeDSLichChieu.Designer.cs">
-      <DependentUpon>LietKeDSLichChieu.cs</DependentUpon>
-    </Compile>
     <Compile Include="LoginForm.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -72,11 +66,11 @@
     <Compile Include="QuanLyBanVe.Designer.cs">
       <DependentUpon>QuanLyBanVe.cs</DependentUpon>
     </Compile>
-    <Compile Include="QuanLyLichChieu\QuanLyLichChieuForm.cs">
+    <Compile Include="QuanLyLichChieu.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="QuanLyLichChieu\QuanLyLichChieuForm.Designer.cs">
-      <DependentUpon>QuanLyLichChieuForm.cs</DependentUpon>
+    <Compile Include="QuanLyLichChieu.Designer.cs">
+      <DependentUpon>QuanLyLichChieu.cs</DependentUpon>
     </Compile>
     <Compile Include="QuanLyNhanVienForm.cs">
       <SubType>Form</SubType>
@@ -102,32 +96,11 @@
     <Compile Include="SeatBookingForm.Designer.cs">
       <DependentUpon>SeatBookingForm.cs</DependentUpon>
     </Compile>
-    <Compile Include="QuanLyLichChieu\SuaLichChieu.cs">
-      <SubType>UserControl</SubType>
-    </Compile>
-    <Compile Include="QuanLyLichChieu\SuaLichChieu.Designer.cs">
-      <DependentUpon>SuaLichChieu.cs</DependentUpon>
-    </Compile>
-    <Compile Include="QuanLyLichChieu\ThemLichChieu.cs">
-      <SubType>UserControl</SubType>
-    </Compile>
-    <Compile Include="QuanLyLichChieu\ThemLichChieu.Designer.cs">
-      <DependentUpon>ThemLichChieu.cs</DependentUpon>
-    </Compile>
-    <Compile Include="QuanLyLichChieu\XoaLichChieu.cs">
-      <SubType>UserControl</SubType>
-    </Compile>
-    <Compile Include="QuanLyLichChieu\XoaLichChieu.Designer.cs">
-      <DependentUpon>XoaLichChieu.cs</DependentUpon>
-    </Compile>
     <EmbeddedResource Include="DemoForm.resx">
       <DependentUpon>DemoForm.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="QuanLyBanVe.resx">
       <DependentUpon>QuanLyBanVe.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="QuanLyLichChieu\LietKeDSLichChieu.resx">
-      <DependentUpon>LietKeDSLichChieu.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="LoginForm.resx">
       <DependentUpon>LoginForm.cs</DependentUpon>
@@ -141,9 +114,6 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
-    <EmbeddedResource Include="QuanLyLichChieu\QuanLyLichChieuForm.resx">
-      <DependentUpon>QuanLyLichChieuForm.cs</DependentUpon>
-    </EmbeddedResource>
     <EmbeddedResource Include="QuanLyPhim.resx">
       <DependentUpon>QuanLyPhim.cs</DependentUpon>
     </EmbeddedResource>
@@ -152,15 +122,6 @@
     </EmbeddedResource>
     <EmbeddedResource Include="SeatBookingForm.resx">
       <DependentUpon>SeatBookingForm.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="QuanLyLichChieu\SuaLichChieu.resx">
-      <DependentUpon>SuaLichChieu.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="QuanLyLichChieu\ThemLichChieu.resx">
-      <DependentUpon>ThemLichChieu.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="QuanLyLichChieu\XoaLichChieu.resx">
-      <DependentUpon>XoaLichChieu.cs</DependentUpon>
     </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
