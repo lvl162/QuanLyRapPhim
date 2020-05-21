@@ -39,7 +39,7 @@ namespace QuanLyRapPhim
 
         private void button5_Click(object sender, EventArgs e)
         {
-            new QuanLyLichChieuForm().ShowDialog();
+            new QuanLyLichChieu().ShowDialog();
         }
 
         private void button7_Click(object sender, EventArgs e)
