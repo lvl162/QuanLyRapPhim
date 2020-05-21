@@ -51,3 +51,5 @@ C:\Users\LuuVanLoi\Desktop\DA\QuanLyRapPhim\QuanLyRapPhim\obj\Debug\QuanLyRapPhi
 C:\Users\LuuVanLoi\Desktop\DA\QuanLyRapPhim\QuanLyRapPhim\bin\Debug\QuanLyRapPhim.exe.config
 C:\Users\LuuVanLoi\Desktop\DA\QuanLyRapPhim\QuanLyRapPhim\bin\Debug\QuanLyRapPhim.exe
 C:\Users\LuuVanLoi\Desktop\DA\QuanLyRapPhim\QuanLyRapPhim\bin\Debug\QuanLyRapPhim.pdb
+C:\Users\LuuVanLoi\Desktop\DA\QuanLyRapPhim\QuanLyRapPhim\obj\Debug\QuanLyRapPhim.QuanLyLichChieu.resources
+C:\Users\LuuVanLoi\Desktop\DA\QuanLyRapPhim\QuanLyRapPhim\obj\Debug\QuanLyRapPhim.QuanLyNhanVienForm.resources
